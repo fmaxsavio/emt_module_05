@@ -48,10 +48,7 @@ const questions = [
       q: "The direction of polarization vector is from:",
       options: ["Negative to positive charge", "Field to source", "Positive to negative charge", "Source to ground"],
       answer: 0
-    }
-  ],
-
-  dipoleAndPVector: [
+    },
     {
       q: "Electric dipole moment is defined as:",
       options: ["Charge per area", "Current times time", "Charge times separation", "Voltage times current"],
@@ -101,10 +98,7 @@ const questions = [
       q: "The net dipole moment of a non-polar molecule is:",
       options: ["Maximum", "Zero", "Unpredictable", "Infinite"],
       answer: 1
-    }
-  ],
-
-  chargeDensity: [
+    },
     {
       q: "Volume charge density is defined as charge per:",
       options: ["Volume", "Area", "Length", "Mass"],
